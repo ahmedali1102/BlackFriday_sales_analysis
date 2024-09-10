@@ -36,6 +36,9 @@ How to Run the Project
 Clone the repository.
 Ensure that the dataset (train_bf.csv) is in the same directory as the notebook.
 
+Here the video explanation of the code,
+https://1drv.ms/v/c/46e17f20539c6739/ETgHhf24cyVDtFvG8gcVMdcBU7mEXWxemJlbELasldhcMQ?e=Fg1dft
+
 # Results
 The analysis yields insights into customer behavior during Black Friday sales, highlighting key factors such as age, gender, and product categories that influence purchase decisions.
 
